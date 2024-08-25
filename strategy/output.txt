@@ -1,0 +1,32 @@
+Creating List:
+Add : Jenny Davidson
+Add : Sally Anderson
+Add : Kyle Anderson
+Add : Greg Parkson
+Add : Michael Bailey
+Add : Brad Zenker
+Add : Trevor Davenport
+Add : Jamie Jeffries
+Already on list: Greg Parkson
+Already on list: Jamie Jeffries
+Already on list: Jenny Davidson
+Add : Sara Anderson
+Add : Kim Smith
+Already on list: Jamie Jeffries
+Already on list: Michael Bailey
+Add : Sara Anders
+
+
+My Kids Birthday Party
+
+  - Sara Anders: 803-566-1114 (Always throwing things).
+  - Kyle Anderson: 803-566-4545 (Mom can't park car).
+  - Sally Anderson: 803-222-7656 (Alergic to Nuts).
+  - Sara Anderson: 803-566-3434 (Wins every contest).
+  - Michael Bailey: 803-232-6655 (Loves hot dogs).
+  - Trevor Davenport: 803-454-9944 (Can't sit still).
+  - Jenny Davidson: 803-423-7878 (Had skinny looking dog.).
+  - Jamie Jeffries: 803-656-3344 (Scared of dogs).
+  - Greg Parkson: 803-878-5564 (NA).
+  - Kim Smith: 803-555-3434 (Loves crafts).
+  - Brad Zenker: 803-554-6868 (Lactose Intellorant).

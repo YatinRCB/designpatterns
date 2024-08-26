@@ -1,9 +1,12 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Manages the list of attendees for the event.
+ */
 public class Attendees {
     private String title;
-    private List<Person> guests;
+    private final List<Person> guests;
     private SearchBehavior searchBehavior;
 
     public Attendees(String title) {
@@ -11,18 +14,32 @@ public class Attendees {
         this.guests = new ArrayList<>();
     }
 
+    /**
+     * Returns the title of the event.
+     */
     public String getTitle() {
         return title;
     }
 
+    /**
+     * Returns the list of attendees.
+     */
     public List<Person> getList() {
         return guests;
     }
+
+    /**
+     * Sets the search behavior strategy.
+     */
 
     public void setSearchBehavior(SearchBehavior searchBehavior) {
         this.searchBehavior = searchBehavior;
     }
 
+    /**
+     * Adds a person to the list if they are not already on it.
+     */
+    
     public Person add(String firstName, String lastName, String phoneNumber, String reminder) {
         Person newPerson = new Person(firstName, lastName, phoneNumber, reminder);
         if (searchBehavior != null && searchBehavior.contains(guests, newPerson)) {

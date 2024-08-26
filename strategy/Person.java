@@ -2,7 +2,7 @@
  * Creates a new Person
  */
 public class Person implements Comparable<Person>{
-    private String firstName;
+    private final String firstName;
     private String lastName;
     private String phoneNumber;
     private String reminder;

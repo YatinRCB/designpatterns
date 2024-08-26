@@ -1,5 +1,9 @@
 import java.util.List;
 
+/**
+ * Implements binary search to check if a person is in the guest list.
+ */
+
 public class BinarySearch implements SearchBehavior {
 
     @Override
@@ -13,14 +17,14 @@ public class BinarySearch implements SearchBehavior {
             int compare = midPerson.compareTo(person);
 
             if (compare == 0) {
-                return true;
+                return true;   //Person found in list
             } else if (compare < 0) {
-                left = mid + 1;
+                left = mid + 1;  // Search right half
             } else {
-                right = mid - 1;
+                right = mid - 1;  //Search left half
             }
         }
-        return false;
+        return false;  //Not found in list
     }
 }
 

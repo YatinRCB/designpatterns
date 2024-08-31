@@ -1,3 +1,8 @@
+/**Strategy Assingment
+ * 
+ * @author Yatin Raju
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -5,7 +10,7 @@ import java.util.List;
  * Manages the list of attendees for the event.
  */
 public class Attendees {
-    private String title;
+    private final String title;
     private final List<Person> guests;
     private SearchBehavior searchBehavior;
 

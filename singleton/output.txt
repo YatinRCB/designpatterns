@@ -1,0 +1,47 @@
+Welcome to our trivia game
+(P)lay or (Q)uit: p
+
+What land animal can open its mouth the widest?
+ 1. Alligator
+ 2. Crocodile
+ 3. Baboon
+ 4. Hippo
+
+Enter Answer: 3
+You got it wrong!
+The correct answer is Hippo
+(P)lay or (Q)uit: p
+
+What type of animal is a seahorse?
+ 1. Crustacean
+ 2. Arachnid
+ 3. Fish
+ 4. Shell
+
+Enter Answer: 3
+YAY! You got it right!
+(P)lay or (Q)uit: p
+
+Which of the following dog breeds is the smallest?
+ 1. Dachshund
+ 2. Poodle
+ 3. pomeranian
+ 4. Chicuahua
+
+Enter Answer: 3
+You got it wrong!
+The correct answer is Chicuahua
+(P)lay or (Q)uit: p
+
+What is the largest animal on Earth?
+ 1. The African elephant
+ 2. The blue whale
+ 3. The sperm whale
+ 4. The giant squid
+
+Enter Answer: 2
+YAY! You got it right!
+(P)lay or (Q)uit: q
+
+You scored 2/4
+Goodbye
